@@ -1,2 +1,4 @@
 This is a simple script that accepts two arguments: the first being a word to look for, and the second being the file to look in.
-It will return the amount of times that the word appears in the document, and the line numbers that it returns at.
+It will return the line numbers that it appears at, as well as the contents of the lines.
+
+You must use the absolute directory of the file that you are looking in, such as '~/hamlet.txt'
