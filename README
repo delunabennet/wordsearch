@@ -1,0 +1,2 @@
+This is a simple script that accepts two arguments: the first being a word to look for, and the second being the file to look in.
+It will return the amount of times that the word appears in the document, and the line numbers that it returns at.
